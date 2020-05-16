@@ -1,0 +1,3 @@
+rootProject.name='SukshiCameraDemo'
+include ':app'
+include ':facecapture'
